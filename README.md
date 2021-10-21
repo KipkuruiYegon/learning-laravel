@@ -7,7 +7,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-Edited readme !!
+try editing myproject
+<br>
+edited readme
 
 ## About Laravel
 
